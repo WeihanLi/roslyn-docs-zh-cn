@@ -31,9 +31,9 @@
     - [参数列表](./compilers/CSharp/__arglist.md)
 
   - [设计](./compilers/Design/README.md)
-    - [关闭转换](./compilers/Design/ClosureConversion.md)
+    - [关闭转换](./compilers/Design/Closure%20Conversion.md)
     - [转换器](./compilers/Design/Parser.md)
-    - [意外情况](./compilers/Design/UnexpectedConditiond.md)
+    - [意外情况](./compilers/Design/Unexpected%20Conditiond.md)
 
   - 动态分析
     - [元数据格式](./compilers/Dynamic%20Analysis/MetadataFormat.md)
@@ -44,13 +44,13 @@
     - [编译器变化-VS2015](./compilers/Visual%20Basic/Compiler%20Breaking%20Changes%20-%20VS2015.md)
     - [编译器变化- POST VS2017](./compilers/Visual%20Basic/Compiler%20Breaking%20Changes%20-%20post%20VS2017.md)
 
-  - [生成 Core CLR 编译器](./compilers/BuildingforCoreCLR.md)
-  - [共置核心类型](./compilers/Co-locatedCoreTypes.md)
-  - [确定性输入](./compilers/DeterministicInputs.md)
-  - [错误日志格式](./compilers/ErrorLogFormat.md)
-  - [在别名组件中的扩展方法](./compilers/ExtensionMethodsinAliasedAssemblies.md)
-  - [交互环境中导入](./compilers/InteractiveImports.md)
-  - [规则集格式](./compilers/RuleSetFormat.md)
+  - [生成 Core CLR 编译器](./compilers/Building%20for%20Core%20CLR.md)
+  - [共置核心类型](./compilers/Co-located%20core%20Types.md)
+  - [确定性输入](./compilers/Deterministic%20Inputs.md)
+  - [错误日志格式](./compilers/Error%20Log%20Format.md)
+  - [在别名组件中的扩展方法](./compilers/Extension%20Methods%20in%20Aliased%20Assemblies.md)
+  - [交互环境中导入](./compilers/Interactive%20Imports.md)
+  - [规则集格式](./compilers/Rule%20Set%20Format.md)
 
 - 贡献
   - [在 Unix 上生成、编译和调试](./contributing/Building%2C%20Debugging%2C%20and%20Testing%20on%20Unix.md)
