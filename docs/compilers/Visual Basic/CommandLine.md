@@ -40,7 +40,7 @@
 | `/debug:portable` | 以便携式格式发出调试信息。
 | `/debug:pdbonly` | 仅发出 PDB 文件。
 | `/deterministic` | 生成确定性程序集（包括模块版本 GUID 和时间戳）
-| `/refonly | 生成引用程序集而不是完整程序集作为主输出
+| `/refonly` | 生成引用程序集而不是完整程序集作为主输出
 | **错误和警告**
 | `/nowarn` | 禁用所有警告。
 | `/nowarn:`*number_list* | 禁用单个警告列表。
