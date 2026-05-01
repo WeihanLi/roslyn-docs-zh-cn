@@ -2,7 +2,7 @@
 
 ## 概述
 
-1. 所有 [IDE 分析器诊断 ID](../../src/Analyzers/Core/Analyzers/IDEDiagnosticIds.cs) 的官方文档已添加到 `dotnet/docs` 仓库，位于 <https://github.com/dotnet/docs/tree/main/docs/fundamentals/code-analysis/style-rules>。
+1. 所有 [IDE 分析器诊断 ID](https://github.com/dotnet/roslyn/blob/main/src/Analyzers/Core/Analyzers/IDEDiagnosticIds.cs) 的官方文档已添加到 `dotnet/docs` 仓库，位于 <https://github.com/dotnet/docs/tree/main/docs/fundamentals/code-analysis/style-rules>。
 
 2. 每个 IDE 诊断 ID 都有专属的文档页面。例如：
    1. 带有代码样式选项的诊断：<https://docs.microsoft.com/dotnet/fundamentals/code-analysis/style-rules/ide0011>

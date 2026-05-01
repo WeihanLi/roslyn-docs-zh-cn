@@ -1,1 +1,1 @@
-已移至 [bootstrap-builds.md](docs/contributing/bootstrap-builds.md)
+已移至 [bootstrap-builds.md](./bootstrap-builds.md)

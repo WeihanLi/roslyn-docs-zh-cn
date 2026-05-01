@@ -12,7 +12,7 @@
 1. 安装 [VS Code](https://code.visualstudio.com/Download)
     - 安装 VS Code 后，安装 [C# 扩展](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
     - 重要提示：您可以通过按 *Ctrl+Shift+P* 或按 *Ctrl+P* 并输入 `>` 字符来按名称查找编辑器命令。这将帮助您熟悉下面提到的编辑器命令。在 Mac 上，使用 *⌘* 代替 *Ctrl*。
-1. 安装与 [global.json](../../global.json#L3) 中的 `sdk.version` 属性匹配的 [.NET 10.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
+1. 安装与 [global.json](https://github.com/dotnet/roslyn/blob/main/global.json#L3) 中的 `sdk.version` 属性匹配的 [.NET 10.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 3. 您可以通过运行 *Run Build Task* 命令从 VS Code 构建，然后选择适当的任务，如 *build* 或 *build current project*（后者为您在编辑器中查看的当前文件构建包含项目）。
 4. 您可以通过在编辑器中打开测试类，然后使用 *Run Tests in Context* 和 *Debug Tests in Context* 编辑器命令从 VS Code 运行测试。您可能想将这些命令绑定到与其 Visual Studio 等效项匹配的键盘快捷键（**Ctrl+R, T** 用于 *Run Tests in Context*，**Ctrl+R, Ctrl+T** 用于 *Debug Tests in Context*）。
 5. 您可以通过运行 "launch vscode with language server" 任务从当前代码启动带有语言服务器的新 VS Code 实例。

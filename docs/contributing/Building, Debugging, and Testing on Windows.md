@@ -20,7 +20,7 @@
     - 确保在选定的单个组件中包含 C# 和 Visual Basic、MSBuild 和 .NET Core
     - 确保在工具 -> 选项 -> 环境 -> 预览功能中勾选"使用 .NET Core SDK 预览版"
     - 重启 Visual Studio
-1. 安装与 [global.json](../../global.json#L3) 中的 `sdk.version` 属性匹配的 [.NET 10.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
+1. 安装与 [global.json](https://github.com/dotnet/roslyn/blob/main/global.json#L3) 中的 `sdk.version` 属性匹配的 [.NET 10.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 1. [PowerShell 5.0 或更新版本](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell)。如果您使用的是 Windows 10，则没问题；只有在使用更早版本的 Windows 时才需要升级。下载链接在["升级现有 Windows PowerShell"](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-windows-powershell?view=powershell-6#upgrading-existing-windows-powershell)标题下。
 1. 运行 Restore.cmd
 1. 打开 Roslyn.slnx

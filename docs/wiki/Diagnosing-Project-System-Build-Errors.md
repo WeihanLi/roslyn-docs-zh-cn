@@ -22,7 +22,7 @@
 1. 打开"视图"菜单，选择"其他窗口"，然后选择"命令窗口"。
 2. 命令窗口打开后，在其中输入 `Project.LogRoslynWorkspaceStructure`：
 
-    ![命令窗口的示例截图](images/design-time-build-errors//typing-in-command-window.png)
+    ![命令窗口的示例截图](images/design-time-build-errors/typing-in-command-window.png)
 
 3. 按 Enter。系统将弹出提示，要求你保存一个 XML 文件。此过程可能需要一些时间。如果你有问题报告，请将此文件私密地附加到问题报告中。
 
