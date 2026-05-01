@@ -9,7 +9,7 @@
 "State"列包含指向该功能测试计划 issue 的链接。测试计划应具有"Feature - XYZ"标签，该标签也用于该功能相关的 PR 和 issue。  
 要添加新的功能条目（连同其测试计划 issue 和标签），请使用 [`new-compiler-feature` skill](../.github/skills/new-compiler-feature/)。  
 
-# 工作集 C#
+# 工作集 C\#
 
 已合并的功能应位于表格的下半部分（按最早到最新合并的降序排列），而进行中的功能应位于表格的上半部分。  
 当某个功能合并到 `main` 分支时，其条目应移至表格底部，其"State"值应更新以记录相关版本号。  
