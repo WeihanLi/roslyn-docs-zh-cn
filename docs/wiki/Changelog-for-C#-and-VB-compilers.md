@@ -58,7 +58,7 @@ C# 和 VB 编译器现在可以生成[引用程序集](https://github.com/dotnet
 
 [已发布 API](https://github.com/dotnet/roslyn/commit/5520eaccd5d22ae98a39a5f88120277f02097dbf)，[Bug 修复](https://github.com/dotnet/roslyn/pulls?q=is%3Apr+milestone%3A15.3+is%3Aclosed)
  
- ## [Visual Studio 2017 版本 15.0](https://github.com/dotnet/roslyn/releases/tag/Visual-Studio-2017)
+## [Visual Studio 2017 版本 15.0](https://github.com/dotnet/roslyn/releases/tag/Visual-Studio-2017)
  C# 编译器现在支持 [7.0](https://blogs.msdn.microsoft.com/dotnet/2017/03/09/new-features-in-c-7-0/) 语言特性集，包括：
 - [out 变量](https://github.com/dotnet/csharplang/blob/main/proposals/csharp-7.0/out-var.md)
 - [模式匹配](https://github.com/dotnet/csharplang/blob/main/proposals/patterns.md)
