@@ -1,7 +1,6 @@
 # 拦截器
 
 ## 摘要
-[summary]: #summary
 
 *拦截器*是一种 C# 编译器功能，最初在 .NET 8 中以实验性方式发布，在 .NET 9.0.2xx SDK 及更高版本中提供稳定支持。
 
@@ -44,7 +43,6 @@ static class D
 ```
 
 ## 详细设计
-[design]: #detailed-design
 
 ### InterceptsLocationAttribute
 

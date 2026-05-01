@@ -3,7 +3,6 @@
 提案 Issue：<https://github.com/dotnet/csharplang/issues/1710>
 
 ## 摘要
-[summary]: #summary
 
 提供一种方式，可以为 struct 上的单个实例成员指定其不修改状态，类似于 `readonly struct` 指定所有实例成员都不修改状态的方式。
 
@@ -12,7 +11,6 @@
 `readonly struct` 上的所有实例成员都隐式地是 `readonly instance members`。在非只读 struct 上显式声明的 `readonly instance members` 将以相同的方式运行。例如，如果你调用了一个本身不是只读的实例成员（在当前实例或实例的某个字段上），编译器仍然会创建隐藏副本。
 
 ## 设计
-[design]: #design
 
 允许用户指定某个实例成员本身是 `readonly` 的，不会修改实例状态（当然需要编译器进行所有适当的验证）。例如：
 

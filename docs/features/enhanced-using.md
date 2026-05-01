@@ -8,7 +8,7 @@
 
  - _[ref struct 的基于模式的释放](#Pattern-based-disposal-for-ref-structs)_ 允许 `ref struct` 在无需实现 `IDisposable` 接口的情况下，选择加入释放。
 
-__参见__：CSharpLang 中的[对应提案](https://github.com/dotnet/csharplang/blob/main/proposals/csharp-8.0/using.md)。
+**参见**：CSharpLang 中的[对应提案](https://github.com/dotnet/csharplang/blob/main/proposals/csharp-8.0/using.md)。
 
 ## Using 声明
 
