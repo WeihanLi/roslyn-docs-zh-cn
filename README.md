@@ -2,7 +2,7 @@
 
 ## 简介
 
-Roslyn 中文文档，原英文文档参考 <https://github.com/dotnet/roslyn/tree/master/docs>
+Roslyn 中文文档，原英文文档参考 <https://github.com/dotnet/roslyn/tree/main/docs>
 
 ## 欢迎来到 .NET 编译器平台（`Roslyn`）
 
@@ -18,18 +18,7 @@ Roslyn 提供了开源的有着丰富的代码分析api的 C# 和 Visual Basic �
 
 ### 下载 C# 和 VisualBasic
 
-想使用 C# 和 VisualBaisc 开始开发？ 下载已经内置了最新的功能特性的 [Visual Studio 2017](https://www.visualstudio.com/downloads/)。在Visual Studio 2017 中也已经安装了预构建的Azure虚拟机映像。
-
-要在不使用Visual Studio的情况下安装最新版本，请运行以下nuget命令行之一：
-
-``` bash
-nuget install Microsoft.Net.Compilers   # Install C# and VB compilers
-nuget install Microsoft.CodeAnalysis    # Install Language APIs and Services
-```
-
-Daily NuGet builds of the project are also available in our MyGet feed.
-
-> <https://dotnet.myget.org/F/roslyn/api/v3/index.json>
+想使用 C# 和 VisualBaisc 开始开发？ 下载已经内置了最新的功能特性的 [Visual Studio](https://www.visualstudio.com/downloads/)
 
 ### 源代码
 
@@ -54,7 +43,3 @@ Daily NuGet builds of the project are also available in our MyGet feed.
 - [语言设计笔记](https://github.com/dotnet/roslyn/issues?q=label%3A%22Design+Notes%22+)
 - [FAQ](https://github.com/dotnet/roslyn/wiki/FAQ)
 - 不要忘记看一下我们的 [Wiki](https://github.com/dotnet/roslyn/wiki) 以了解更多信息
-
-## Contact
-
-contact me at <weihanli@outlook.com>
